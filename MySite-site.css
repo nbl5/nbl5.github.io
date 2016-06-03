@@ -1,9 +1,14 @@
 h2 {
 	text-align: center;
+	color: white;
+}
+
+.heading1 {
+	color: white;
 }
 
 .content {
-	padding:320px;
+	padding:220px;
 }
 
 .col-md-6 {
